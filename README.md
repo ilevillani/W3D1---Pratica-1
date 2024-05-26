@@ -1,2 +1,2 @@
-# W3D1---Pratiche
-Pratiche Settimana 3 - Pre-requisiti di Networks
+# W3D1---Pratica
+Pratica Settimana 3, Giorno 1 - Pre-requisiti di Networks
